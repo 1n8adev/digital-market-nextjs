@@ -10,7 +10,7 @@ const MaxWithWrapper = ({
   return (
     <div
       className={cn(
-        'max-auto w-full max-w-screen-xl px-2.5 md:px-20',
+        'max-auto w-full max-w-screen-4xl px-2.5 md:px-20',
         className
       )}
     >
